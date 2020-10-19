@@ -1,0 +1,18 @@
+DEBUG | 2020-10-19 23:22:33 | [main] helloworld.App (App.java:16) - Hello world! Will Be Printed on Debug
+INFO  | 2020-10-19 23:22:33 | [main] helloworld.App (App.java:17) - Hello world! Will Be Printed on Info
+WARN  | 2020-10-19 23:22:33 | [main] helloworld.App (App.java:18) - Hello world! Will Be Printed on warn
+ERROR | 2020-10-19 23:22:33 | [main] helloworld.App (App.java:19) - Hello world! Will Be Printed on Error
+FATAL | 2020-10-19 23:22:33 | [main] helloworld.App (App.java:20) - Hello world! Will Be Printed on fatal
+INFO  | 2020-10-19 23:22:33 | [main] helloworld.App (App.java:21) - Appending string: Hello world!.
+DEBUG | 2020-10-19 23:23:00 | [main] helloworld.App (App.java:12) - Hello world! Will Be Printed on Debug
+INFO  | 2020-10-19 23:23:00 | [main] helloworld.App (App.java:13) - Hello world! Will Be Printed on Info
+WARN  | 2020-10-19 23:23:00 | [main] helloworld.App (App.java:14) - Hello world! Will Be Printed on warn
+ERROR | 2020-10-19 23:23:00 | [main] helloworld.App (App.java:15) - Hello world! Will Be Printed on Error
+FATAL | 2020-10-19 23:23:00 | [main] helloworld.App (App.java:16) - Hello world! Will Be Printed on fatal
+INFO  | 2020-10-19 23:23:00 | [main] helloworld.App (App.java:17) - Appending string: Hello world!.
+DEBUG | 2020-10-19 23:24:14 | [main] helloworld.App (App.java:12) - Hello world! Will Be Printed on Debug
+INFO  | 2020-10-19 23:24:14 | [main] helloworld.App (App.java:13) - Hello world! Will Be Printed on Info
+WARN  | 2020-10-19 23:24:14 | [main] helloworld.App (App.java:14) - Hello world! Will Be Printed on warn
+ERROR | 2020-10-19 23:24:14 | [main] helloworld.App (App.java:15) - Hello world! Will Be Printed on Error
+FATAL | 2020-10-19 23:24:14 | [main] helloworld.App (App.java:16) - Hello world! Will Be Printed on fatal
+INFO  | 2020-10-19 23:24:14 | [main] helloworld.App (App.java:17) - Appending string: Hello world!.
